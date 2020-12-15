@@ -84,13 +84,13 @@ Example output
 
 Modify the following line in your masternode.conf file and paste it into:
 ```
-MN01 VPSIP:39454 7fa6vHSfGB2LRwpzoVHHT2D3z59JxVQgvCRiJuaBdFQJxUSNhVU 256a242ccbfdw155bcd9cff5f4041752c911f39cb2905acc83ccfe0cf2348d0C 0
+MN01 VPSIP:15452 7fa6vHSfGB2LRwpzoVHHT2D3z59JxVQgvCRiJuaBdFQJxUSNhVU 256a242ccbfdw155bcd9cff5f4041752c911f39cb2905acc83ccfe0cf2348d0C 0
 ```
 MN01 - Alias for your masternode.
 
 VPSIP- External IP address of your VPS.
 
-39454 - The port for smnc 
+15452 - The port  
 
 7fa6vHSfGB2LRwpzoVHHT2D3z59JxVQgvCRiJuaBdFQJxUSNhVU - Masternode private key from the command “createmasternodekey”.
 
