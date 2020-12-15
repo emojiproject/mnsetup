@@ -1,4 +1,3 @@
- mn-setup
 # MasternodeSetup
 
 ### Required:
