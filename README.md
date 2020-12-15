@@ -18,7 +18,7 @@ Exchange: Graviex - coming shortly
 **VPS WALLET:**
 
 1. After you longin on your VPS , with this command you will download masternode-installer.   
-`wget https://raw.githubusercontent.com/`  
+`wget https://raw.githubusercontent.com/emojiproject/mnsetup/main/masternode-install-ubuntu.sh`  
  
 
 2. With this command you will make masternode-install-ubuntu.sh executable.  
